@@ -1,0 +1,6 @@
+This is a test message used in a video steganography project.
+It is intended for evaluation purposes only.
+The goal is to test the invisibility and robustness of embedding techniques.
+Techniques: LSB, DCT, DWT, Motion Vector, and Deep Learning-based methods.
+Date: 25.05.2025
+Prepared by: Vahdet

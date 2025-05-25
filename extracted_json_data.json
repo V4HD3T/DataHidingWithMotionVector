@@ -1,0 +1,14 @@
+{
+  "name": "Vahdet Yilmaz",
+  "student_id": "20231234",
+  "email": "vahdet@example.edu",
+  "phone": "+90 555 123 4567",
+  "project": "Video Steganografi",
+  "supervisor": "Dr. Ayşe Demir",
+  "notes": [
+    "DCT yüksek sıkıştırmada daha etkili",
+    "LSB düşük bozulmada iyi sonuç verir",
+    "DWT detay katmanları kullanır"
+  ],
+  "timestamp": "2025-05-25T14:00:00Z"
+}
