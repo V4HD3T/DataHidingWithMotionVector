@@ -1,0 +1,4 @@
+type,embed_time,extract_time,BER,PSNR_File,SSIM_File,MSE,MAE,Histogram_Diff,Mean_Diff_Pixel,Text_Similarity,PSNR_Video,SSIM_Video
+jpg,0.0001,0.0001,0.0,100,1.0,0.0,0.0,0.0,0.0,,23.9,0.7421
+json,0.0002,0.0001,0.0,,,,,,,1.0,23.9,0.7421
+txt,0.0002,0.0001,0.0,,,,,,,1.0,23.9,0.7421
